@@ -6,14 +6,15 @@ Building local AI tools, workflow automation, and full-stack applications for Wi
 
 ## Featured — PRISM Workspace + ERP
 
-Developing PRISM from requirements and data modeling to UI, APIs, and deployment. The platform connects collaboration with business operations using React, TypeScript, FastAPI, PostgreSQL, Docker, and Caddy. It is in development; the source code and business data are private.
+Designing and building PRISM solo, from scratch — requirements and data modeling through UI, APIs, and deployment. It is my largest project. The platform connects collaboration with business operations using React, TypeScript, FastAPI, PostgreSQL, Docker, and Caddy. It is in development; the source code and business data are private.
 
 [Read the case study](https://savvy773.github.io/#prismFeatureTitle)
 
 ## Projects
 
-| Project | What it does | Stack | Demo |
+| Project | What it does | Stack | Link |
 |---|---|---|---|
+| **PRISM Workspace + ERP** (private) | In-house platform connecting documents, weekly reports, and projects with sales, purchasing, inventory, production, finance, HR, and reporting — built solo from scratch | React, TypeScript, FastAPI, PostgreSQL, Docker, Caddy | [Case study](https://savvy773.github.io/#prismFeatureTitle) |
 | [ai-analysis](https://github.com/savvy773/ai-analysis) | Compare AI models by coding performance, response time, and cost in a local browser report | Python | |
 | [web-ai-usage](https://github.com/savvy773/web-ai-usage) | Local dashboard for Claude / Codex / Gemini CLI usage — no cloud, no telemetry | TypeScript | [Live](https://savvy773.github.io/web-ai-usage/) |
 | [stt-whisper](https://github.com/savvy773/stt-whisper) | Local GPU-accelerated speech-to-text dictation for Windows | Python, CTranslate2, PySide6 | [Live](https://savvy773.github.io/stt-whisper/) |
