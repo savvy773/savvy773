@@ -1,4 +1,4 @@
-
+# Regenerable caches, deps, and local tool state
 # git_commit.ps1 auto-ignore (regenerable caches/deps only)
 node_modules
 bower_components
